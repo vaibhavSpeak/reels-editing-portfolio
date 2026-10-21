@@ -1,29 +1,49 @@
-# 🎬 Vaibhav Speaks | Video Editing Portfolio
+# 🎬 Vaibhav Pawar | Video Editing Portfolio
 
-Welcome to my video editing portfolio! I create engaging, cinematic, and creative short-form videos for social media.
+Welcome to my portfolio! I create cinematic, engaging, and scroll-stopping video edits for brands, creators, and social media audiences.
 
-## 🎯 My Services
+## About Me
+
+I am a video editor focused on crafting visually compelling content for Instagram Reels, short-form videos, and storytelling-driven edits. My work blends creativity, pacing, and emotion to help content stand out.
+
+## My Services
 
 - Instagram Reels Editing
-- Captions and Subtitles
+- Captions & Subtitles
 - Cinematic Video Editing
 - AI Storytelling Videos
-- Social Media Promotional Videos
+- Social Media Promo Videos
+- Brand Content Editing
 
-## 🎞️ My Projects
+## Featured Projects
 
-- Cinematic Reel: Coming soon
-- India in 2099 — Sci-Fi Reel: Coming soon
-- Business Promotional Reel: Coming soon
+- Cinematic Reel — Coming soon
+- Sci-Fi Concept Reel — Coming soon
+- Business Promo Video — Coming soon
+- Social Media Brand Edit — Coming soon
 
-## 🛠️ Tools
+## Tools I Use
 
 - CapCut
-- Mobile Video Editing Tools
+- Mobile Editing Tools
 - AI Video Creation Tools
+- Sound Design & Subtitling Tools
 
-## 📩 Contact
+## Why Work With Me?
 
-Available for video editing projects and collaborations.
+- Creative and cinematic editing style
+- Fast turnaround for short-form content
+- Story-driven storytelling approach
+- Strong focus on engagement and visual impact
 
-Portfolio samples will be added soon.
+## Contact
+
+Instagram: @amj.cinematic10_
+Email: your@email.com
+WhatsApp: +91 00000 00000
+
+Available for freelance editing work, collaborations, and creative projects.
+
+---
+
+Let’s create videos that grab attention and leave a lasting impression.
