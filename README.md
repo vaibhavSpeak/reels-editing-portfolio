@@ -11,7 +11,6 @@ I am a video editor focused on crafting visually compelling content for Instagra
 - Instagram Reels Editing
 - Captions & Subtitles
 - Cinematic Video Editing
-- AI Storytelling Videos
 - Social Media Promo Videos
 - Brand Content Editing
 
@@ -39,8 +38,8 @@ I am a video editor focused on crafting visually compelling content for Instagra
 ## Contact
 
 Instagram: @amj.cinematic10_
-Email: your@email.com
-WhatsApp: +91 00000 00000
+Email: vaibhavpawar1030@gmail.com
+
 
 Available for freelance editing work, collaborations, and creative projects.
 
